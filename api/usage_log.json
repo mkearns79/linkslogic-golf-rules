@@ -353,4 +353,7 @@
 {"timestamp": "2025-07-02T13:08:43.718932", "tokens": 353, "cost": 0.0056, "question_preview": "I accidentally moved my ball  what do I do"}
 {"timestamp": "2025-07-02T13:10:27.415210", "tokens": 381, "cost": 0.0065, "question_preview": "my ball moved  what do I do"}
 {"timestamp": "2025-07-08T15:36:01.652500", "tokens": 314, "cost": 0.005, "question_preview": "my ball is embedded Within  a penalty area  what a..."}
+<<<<<<< HEAD
 {"timestamp": "2025-07-09T17:47:39.504624", "tokens": 291, "cost": 0.004, "question_preview": "I hit a provisional ball that ended up in the same..."}
+=======
+>>>>>>> f1280c52a1906fe2ed4beb50954ee280cf602079
